@@ -40,7 +40,7 @@
        – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 
-4)Customer Dashboard | Requirements
+3)Customer Dashboard | Requirements
 
     ->Dashboard Purpose
 
@@ -66,7 +66,7 @@
 
         – Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
-5)Design & Interactivity Requirements
+3)Design & Interactivity Requirements
 
     ->Dashboard Dynamic
       – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
